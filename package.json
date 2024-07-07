@@ -1,7 +1,7 @@
 {
     "name": "discord-xbox-rpc",
     "version": "1.0.0",
-    "description": "",
+    "description": "Display a customizable Xbox activity.",
     "main": "index.js",
     "scripts": {
         "dev": "node index.js"
