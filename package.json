@@ -1,0 +1,15 @@
+{
+    "name": "discord-xbox-rpc",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node index.js"
+    },
+    "keywords": [],
+    "author": "sowqa",
+    "license": "Apache",
+    "dependencies": {
+        "discord.js-selfbot-v13": "^3.1.4"
+    }
+}
