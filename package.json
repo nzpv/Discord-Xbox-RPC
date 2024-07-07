@@ -1,14 +1,27 @@
 {
     "name": "discord-xbox-rpc",
     "version": "1.0.0",
-    "description": "Display a customizable Xbox activity.",
     "main": "index.js",
+    "devDependencies": {},
     "scripts": {
-        "dev": "node index.js"
+        "dev": "index.js"
     },
-    "keywords": [],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sowqa/Discord-Xbox-RPC.git"
+    },
+    "keywords": [
+        "discord",
+        "xbox",
+        "rpc"
+    ],
     "author": "sowqa",
-    "license": "Apache",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/sowqa/Discord-Xbox-RPC/issues"
+    },
+    "homepage": "https://github.com/sowqa/Discord-Xbox-RPC#readme",
+    "description": "Display a customizable Xbox activity.",
     "dependencies": {
         "discord.js-selfbot-v13": "^3.1.4"
     }
